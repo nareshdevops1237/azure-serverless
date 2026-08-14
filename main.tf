@@ -72,3 +72,5 @@ resource "azurerm_linux_function_app" "serverless" {
     environment = var.environment
   }
 }
+
+// Output the function app's default hostname
