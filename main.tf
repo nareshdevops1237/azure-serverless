@@ -73,4 +73,3 @@ resource "azurerm_linux_function_app" "serverless" {
   }
 }
 
-// Output the function app's default hostname
